@@ -1,0 +1,13 @@
+.list {
+    padding: 0;
+}
+.list-item {
+    list-style-type: none;
+    margin-bottom: 50px;
+    clear: both;
+}
+.avatar {
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
